@@ -7,5 +7,6 @@ std::string greeting(const std::string& name) {
 
 int main() {
     std::cout << greeting("Git user") << '\n';
+    int y = 5;
     return 5;
 }
